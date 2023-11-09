@@ -36,8 +36,7 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
   <tr>
     <td align="center">
       <a href="https://github.com/Kevenferraz39">
-          adicionar foto
-          <img src="" width="100px;" alt="Foto do Keven Ferraz"/><br>
+          <img src="Keven-Ferraz.png" width="100px;" alt="Foto do Keven Ferraz"/><br>
         <sub>
           <b>Keven Ferraz</b>
         </sub>
