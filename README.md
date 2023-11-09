@@ -16,20 +16,23 @@ O site é composto por seis seções:
 - **Sobre nós:** Apresenta alguns projetos desenvolvidos por nós individualmente, contamos sobre a area de melhoria contínua e falamos        quais os nossos objetivos como equipe;
 - **SHE360:** Nessa seção temos a nosso canal de denuncias;
 
----
-
-## 💼 Tecnologias utilizadas
+## 📂Tecnologias utilizadas
 
 Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 
-- low-code;
 - HTML;
 - CSS;
 - Java Script;
-- SVG;
+- SVG.
 
----
-
+## 🌐 Plataforma utilizadas
+Para desenvolvimento deste site utilizei uma plataforma low-code chamada Sites.google.com e as seguintes tecnologias:
+- https://sites.google.com;
+- https://www.canva.com;
+- https://www.remove.bg;
+- https://storyset.com;
+- https://analytics.google.com.
+  
 <h2>🧑🏻‍💻 Autor</h2>
 
 <table>
