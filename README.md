@@ -2,7 +2,7 @@
   💻<br>Meroria Contínua RC-01
 </h1>
 
-![Resultado final do projeto]()
+![Resultado final do projeto](site.jpeg)
 
 <h4 align="center"><a href="https://sites.google.com/mercadolivre.com/melhoriacontinuarc01/menu?authuser=0">Clique para visitar o projeto</a></h4>
 
