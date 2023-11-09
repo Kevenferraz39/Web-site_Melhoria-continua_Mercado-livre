@@ -2,7 +2,7 @@
   💻<br>Meroria Contínua RC-01
 </h1>
 
-![Resultado final do projeto](assets/image/preview.png)
+![Resultado final do projeto]()
 
 <h4 align="center"><a href="https://sites.google.com/mercadolivre.com/melhoriacontinuarc01/menu?authuser=0">Clique para visitar o projeto</a></h4>
 
@@ -37,7 +37,7 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
     <td align="center">
       <a href="https://github.com/Kevenferraz39">
           adicionar foto
-          <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Keven Ferraz"/><br>
+          <img src="" width="100px;" alt="Foto do Keven Ferraz"/><br>
         <sub>
           <b>Keven Ferraz</b>
         </sub>
