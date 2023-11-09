@@ -1,5 +1,5 @@
 <h1 align="center">
-  💻<br>Meroria Contínua RC-01
+ <img src="Screenshot_2023-08-14_15.26.05-removebg-preview.png" width="80px;" alt="Logo"/><br>Meroria Contínua RC-01
 </h1>
 
 ![Resultado final do projeto](site.jpeg)
